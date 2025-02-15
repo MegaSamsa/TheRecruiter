@@ -1,0 +1,42 @@
+{
+    "general_settings": {
+        "language": "eng",
+        "font_main": "Times"
+    },
+
+    "sql_settings": {
+        "db_host": "127.0.0.1",
+        "db_user": "postgres",
+        "db_pass": "qwe123",
+        "db_port": "5432",
+        "db_name": "recruiter",
+        "tables": {
+            "units": "units",
+            "specifications": "specifications"
+        }
+    },
+
+    "window_settings": {
+        "size": {
+            "width": 360,
+            "height": 480
+        },
+        "title": "The Recruiter",
+        "icon_path": "static/icon.ico"
+    },
+
+    "unit_settings": {
+        "age_range": {
+            "min": 18,
+            "max": 40
+        },
+        "specification_level": {
+            "min": 0,
+            "max": 10
+        },
+        "units_per_session": {
+            "avaliable": 20,
+            "may_be_selected": 10
+        }
+    }
+}

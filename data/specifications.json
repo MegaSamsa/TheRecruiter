@@ -1,0 +1,7 @@
+{
+    "power": ["power", "сила"],
+    "endurance": ["endurance", "выносливость"],
+    "dexterity": ["dexterity", "ловкость"],
+    "motivation": ["motivation", "мотивация"],
+    "learning_ability": ["learning ability", "обучаемость"]
+}
