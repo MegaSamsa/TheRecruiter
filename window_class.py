@@ -48,14 +48,14 @@ class Window:
         return init.Label(
             self._frame,
             text=text,
-            font=(general_settings['font_main'], 12)
+            font=(general_settings['font_custom'], 16)
         )
     
     def new_button(self, text: str, command: object):
         return init.Button(
             self._frame,
             text=text,
-            font=(general_settings['font_main'], 12),
+            font=(general_settings['font_custom'], 16),
             command=command
         )
     

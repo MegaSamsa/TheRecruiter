@@ -1,7 +1,8 @@
 {
     "general_settings": {
         "language": "eng",
-        "font_main": "Times"
+        "font_main": "Times",
+        "font_custom": "Brahms Gotisch Cyr"
     },
 
     "sql_settings": {
